@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+v_categorie_ration	IDCatégorie	VWRUB+		La rubrique IDCatégorie a été ajoutée.
+v_categorie_ration	quantite	VWRUB-		La rubrique quantite a été supprimée.

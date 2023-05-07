@@ -1,0 +1,2 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+v_Aliment_et_Quantite1		VIEW+		La vue v_Aliment_et_Quantite1 a été créée.

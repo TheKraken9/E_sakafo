@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Contrainte_Famille_EmploieDuTemps		NWL	Famille (IDFamille) et EmploieDuTemps (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et EmploieDuTemps (IDFamille)
+Contrainte_Famille_EmploieDuTemps		DEL	Famille (IDFamille) et EmploieDuTemps (IDFamille)	Liaison supprimée entre les fichiers Famille (IDFamille) et EmploieDuTemps (IDFamille)

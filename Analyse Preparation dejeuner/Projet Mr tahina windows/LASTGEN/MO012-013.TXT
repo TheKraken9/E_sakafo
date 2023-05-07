@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+		VIEW-	v_categorie_ration	La vue v_categorie_ration a été supprimée.

@@ -1,0 +1,3 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+v_personne_caractéristique		VIEW+		La vue v_personne_caractéristique a été créée.
+		VIEW-	v_personne_caractéristique	La vue v_personne_caractéristique a été supprimée.

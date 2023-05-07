@@ -1,0 +1,24 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Catégorie		NFI		nouveau fichier
+Aliment		NFI		nouveau fichier
+QuantitePersonne		NFI		nouveau fichier
+CatégoriePersonne		NFI		nouveau fichier
+RationParCategorie		NFI		nouveau fichier
+Famille		NFI		nouveau fichier
+Personne		NFI		nouveau fichier
+Jour		NFI		nouveau fichier
+EmploieDuTemps		NFI		nouveau fichier
+DetailEmploieDuTemps		NFI		nouveau fichier
+Proposition		NFI		nouveau fichier
+Menu		NFI		nouveau fichier
+Contrainte_Catégorie_Aliment		NWL	Catégorie (IDCatégorie) et Aliment (IDCatégorie)	Nouvelle liaison entre les fichiers Catégorie (IDCatégorie) et Aliment (IDCatégorie)
+Contrainte_CatégoriePersonne_RationParCategorie		NWL	CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)	Nouvelle liaison entre les fichiers CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)
+Contrainte_Famille_Personne		NWL	Famille (IDFamille) et Personne (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et Personne (IDFamille)
+Contrainte_CatégoriePersonne_Personne		NWL	CatégoriePersonne (IDCatégoriePersonne) et Personne (IDCatégoriePersonne)	Nouvelle liaison entre les fichiers CatégoriePersonne (IDCatégoriePersonne) et Personne (IDCatégoriePersonne)
+Contrainte_Jour_EmploieDuTemps		NWL	Jour (IDJour) et EmploieDuTemps (IDJour)	Nouvelle liaison entre les fichiers Jour (IDJour) et EmploieDuTemps (IDJour)
+Contrainte_Famille_EmploieDuTemps		NWL	Famille (IDFamille) et EmploieDuTemps (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et EmploieDuTemps (IDFamille)
+Contrainte_DetailEmploieDuTemps_EmploieDuTemps		NWL	EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)	Nouvelle liaison entre les fichiers EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)
+Contrainte_DetailEmploieDuTemps_Personne		NWL	Personne (IDPersonne) et DetailEmploieDuTemps (IDPersonne)	Nouvelle liaison entre les fichiers Personne (IDPersonne) et DetailEmploieDuTemps (IDPersonne)
+Contrainte_Famille_Proposition		NWL	Famille (IDFamille) et Proposition (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et Proposition (IDFamille)
+Contrainte_Proposition_Menu		NWL	Proposition (dateIDFamille1) et Menu (DateIDFamille1)	Nouvelle liaison entre les fichiers Proposition (dateIDFamille1) et Menu (DateIDFamille1)
+Contrainte_Menu_Aliment		NWL	Aliment (IDAliment) et Menu (IDAliment)	Nouvelle liaison entre les fichiers Aliment (IDAliment) et Menu (IDAliment)

@@ -1,0 +1,16 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=E	;Analysis GUID
+LOCALIZATION_UTF8=C75DA3E92EF04399B144159999D277A1	QuantitePersonne	C:\Mes Projets\Proposition déjeuner\Exe\QuantitePersonne.fic
+LOCALIZATION_UTF8=2CC2607E7E254A1094D4E3B4CE2AF300	Catégorie	C:\Mes Projets\Proposition déjeuner\Exe\Catégorie.fic
+LOCALIZATION_UTF8=40EF6771914F49FD874D144A7E9F91A2	RationParCategorie	C:\Mes Projets\Proposition déjeuner\Exe\RationParCategorie.fic
+LOCALIZATION_UTF8=94EA1F76CD9644A98FBB62C7C305A83F	CatégoriePersonne	C:\Mes Projets\Proposition déjeuner\Exe\CatégoriePersonne.fic
+LOCALIZATION_UTF8=D548895C9B2946DBBEC82D4D887DD17A	Aliment	C:\Mes Projets\Proposition déjeuner\Exe\Aliment.fic
+LOCALIZATION_UTF8=EE9FEBCEC0464522AC17428706CEE768	Personne	C:\Mes Projets\Proposition déjeuner\Exe\Personne.fic
+LOCALIZATION_UTF8=7BD9815B5DA843B0BE5884178A8E2FEB	Menu	C:\Mes Projets\Proposition déjeuner\Exe\Menu.fic
+LOCALIZATION_UTF8=E4F37180780D40A6A377C9306E2A4B50	Proposition	C:\Mes Projets\Proposition déjeuner\Exe\Proposition.fic
+LOCALIZATION_UTF8=774287180D4B4FDAA9A99C19DBB038B6	Famille	C:\Mes Projets\Proposition déjeuner\Exe\Famille.fic
+LOCALIZATION_UTF8=357760E47B594050B63EA01BBF7BC884	Jour	C:\Mes Projets\Proposition déjeuner\Exe\Jour.fic
+LOCALIZATION_UTF8=3845B889D446471D98B055539865FD8F	EmploieDuTemps	C:\Mes Projets\Proposition déjeuner\Exe\EmploieDuTemps.fic
+LOCALIZATION_UTF8=1FE2003239234EDE8F546D67C9148031	DetailEmploieDuTemps	C:\Mes Projets\Proposition déjeuner\Exe\DetailEmploieDuTemps.fic
+LOCALIZATION_UTF8=EF7AAF83674B41B59CC7D89983010E74	Priorité	C:\Mes Projets\Proposition déjeuner\Exe\Priorité.fic

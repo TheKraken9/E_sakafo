@@ -1,0 +1,14 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+EmploieDuTemps	IDJourIDFamille1	RUB-		la clé IDJourIDFamille1 est supprimée
+DetailEmploieDuTemps		TAR	33	nouvelle taille enregistrement : 33
+DetailEmploieDuTemps	IDJour	RUB+		IDJour est une nouvelle clé
+DetailEmploieDuTemps	IDFamille	RUB+		IDFamille est une nouvelle clé
+DetailEmploieDuTemps	IDJourIDFamille1	RUB-		la clé IDJourIDFamille1 est supprimée
+Contrainte_Jour_EmploieDuTemps		NWL	Jour (IDJour) et EmploieDuTemps (IDJour)	Nouvelle liaison entre les fichiers Jour (IDJour) et EmploieDuTemps (IDJour)
+Contrainte_Famille_EmploieDuTemps		NWL	Famille (IDFamille) et EmploieDuTemps (IDFamille)	Nouvelle liaison entre les fichiers Famille (IDFamille) et EmploieDuTemps (IDFamille)
+Contrainte_EmploieDuTemps_DetailEmploieDuTemps		NWL	EmploieDuTemps (IDJour) et DetailEmploieDuTemps (IDJour)	Nouvelle liaison entre les fichiers EmploieDuTemps (IDJour) et DetailEmploieDuTemps (IDJour)
+Contrainte_EmploieDuTemps_DetailEmploieDuTemps1		NWL	EmploieDuTemps (IDFamille) et DetailEmploieDuTemps (IDFamille)	Nouvelle liaison entre les fichiers EmploieDuTemps (IDFamille) et DetailEmploieDuTemps (IDFamille)
+Contrainte_Jour_EmploieDuTemps		DEL	Jour (IDJour) et EmploieDuTemps (IDJour)	Liaison supprimée entre les fichiers Jour (IDJour) et EmploieDuTemps (IDJour)
+Contrainte_Famille_EmploieDuTemps		DEL	Famille (IDFamille) et EmploieDuTemps (IDFamille)	Liaison supprimée entre les fichiers Famille (IDFamille) et EmploieDuTemps (IDFamille)
+Contrainte_EmploieDuTemps_DetailEmploieDuTemps		DEL	EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)	Liaison supprimée entre les fichiers EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)
+v_personne_caractéristique	IDPersonne	VWRUBNT	Identifiant automatique (8 octets)$Entier sur 8 octets	La rubrique 1!s! a pour nouveau type Identifiant automatique (8 octets)

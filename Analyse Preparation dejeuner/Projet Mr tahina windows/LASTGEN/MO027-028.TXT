@@ -1,0 +1,3 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+Priorité		NFI		nouveau fichier
+Contrainte_Catégorie_Priorité		NWL	Catégorie (IDCatégorie) et Priorité (IDCatégorie)	Nouvelle liaison entre les fichiers Catégorie (IDCatégorie) et Priorité (IDCatégorie)

@@ -1,0 +1,2 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+v_personne_catégorie_ration		VIEW+		La vue v_personne_catégorie_ration a été créée.

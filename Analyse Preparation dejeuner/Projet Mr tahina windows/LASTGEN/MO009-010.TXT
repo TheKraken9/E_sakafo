@@ -1,0 +1,2 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+v_categorie_ration		VIEW+		La vue v_categorie_ration a été créée.

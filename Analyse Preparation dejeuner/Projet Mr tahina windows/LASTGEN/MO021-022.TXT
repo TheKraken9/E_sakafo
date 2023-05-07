@@ -1,0 +1,10 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Proposition		TAR	34	nouvelle taille enregistrement : 34
+Proposition		IDE+*		fichier avec identifiant
+Proposition	IDProposition	RUB+		IDProposition est une nouvelle clé
+Proposition	dateIDFamille1	RUB-		la clé dateIDFamille1 est supprimée
+Menu		TAR	29	nouvelle taille enregistrement : 29
+Menu	IDProposition	RUB+		IDProposition est une nouvelle clé
+Menu	DateIDFamille1	RUB-		la clé DateIDFamille1 est supprimée
+Contrainte_Proposition_Menu		NWL	Proposition (IDProposition) et Menu (IDProposition)	Nouvelle liaison entre les fichiers Proposition (IDProposition) et Menu (IDProposition)
+Contrainte_Proposition_Menu		DEL	Proposition (dateIDFamille1) et Menu (DateIDFamille1)	Liaison supprimée entre les fichiers Proposition (dateIDFamille1) et Menu (DateIDFamille1)

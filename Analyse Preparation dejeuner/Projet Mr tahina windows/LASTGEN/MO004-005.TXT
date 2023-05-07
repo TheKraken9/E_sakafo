@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+DetailEmploieDuTemps	IDJourIDFamille1	RUB+		IDJourIDFamille1 est une nouvelle clé
+DetailEmploieDuTemps	IDJourIDFamille1	RUB-		la clé IDJourIDFamille1 est supprimée
+Contrainte_EmploieDuTemps_DetailEmploieDuTemps		NWL	EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)	Nouvelle liaison entre les fichiers EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)
+Contrainte_DetailEmploieDuTemps_EmploieDuTemps		DEL	EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)	Liaison supprimée entre les fichiers EmploieDuTemps (IDJourIDFamille1) et DetailEmploieDuTemps (IDJourIDFamille1)

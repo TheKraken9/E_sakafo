@@ -1,0 +1,7 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+RationParCategorie		IDE-*		fichier sans identifiant
+RationParCategorie	IDCatégorie	RUB+		IDCatégorie est une nouvelle clé
+RationParCategorie	IDRationParCategorie	RUB-		la clé IDRationParCategorie est supprimée
+Contrainte_CatégoriePersonne_RationParCategorie		NWL	CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)	Nouvelle liaison entre les fichiers CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)
+Contrainte_Catégorie_RationParCategorie		NWL	Catégorie (IDCatégorie) et RationParCategorie (IDCatégorie)	Nouvelle liaison entre les fichiers Catégorie (IDCatégorie) et RationParCategorie (IDCatégorie)
+Contrainte_CatégoriePersonne_RationParCategorie		DEL	CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)	Liaison supprimée entre les fichiers CatégoriePersonne (IDCatégoriePersonne) et RationParCategorie (IDCatégoriePersonne)

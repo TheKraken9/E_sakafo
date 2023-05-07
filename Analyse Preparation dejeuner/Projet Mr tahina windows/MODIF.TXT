@@ -1,0 +1,3 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+v_Aliment_et_Quantite1	IDAliment	VWRUBNT	Entier sur 8 octets$Identifiant automatique (8 octets)	La rubrique 1!s! a pour nouveau type Entier sur 8 octets
+v_Aliment_et_Quantite1	Prix	VWRUB+		La rubrique Prix a été ajoutée.

@@ -1,0 +1,2 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+v_aliment_catégorie		VIEW+		La vue v_aliment_catégorie a été créée.
